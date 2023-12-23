@@ -21,7 +21,7 @@ input:focus {outline:none!important;}
     color: #333;
 }
 
-.form-input__btn, .action-group-delete, .action-group-edit {
+.form-input__btn, .action-group__delete, .action-group__edit {
     border: none;
     padding: 10px;
     color: #333;
@@ -40,7 +40,7 @@ input:focus {outline:none!important;}
     
 }
 
-.form-input__btn:hover, .action-group-delete:hover, .action-group-edit:hover {
+.form-input__btn:hover, .action-group__delete:hover, .action-group__edit:hover {
     cursor: pointer;
     opacity: 0.8;
 }
